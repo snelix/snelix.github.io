@@ -1,2 +1,2 @@
 # snelix.github.io
-Ссылка - snelix.github.io
+Ссылка - https://snelix.github.io/
